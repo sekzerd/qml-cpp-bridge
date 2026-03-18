@@ -2,7 +2,6 @@
 #include <QQmlApplicationEngine>
 #include <QQmlContext>
 #include <QtDebug>
-#include "Person.h"
 #include "EventBridge.h"
 
 int main(int argc, char* argv[]) {
